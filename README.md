@@ -24,12 +24,12 @@ Link to the dataset: [here](#)
 [V1] 
 - Abjad:
 - Angka:
-- Kata:
+- Kata: https://tensorboard.dev/experiment/wtLb1cerQMOk1ayoQHw6YA/
 
 [V2]
 - Abjad:
 - Angka:
-- Kata:
+- Kata: https://tensorboard.dev/experiment/JC9diL2IRJuRWN6mZ9LTdA/
 
 [V3]
 - Abjad:
