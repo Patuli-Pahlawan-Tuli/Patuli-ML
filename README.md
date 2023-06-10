@@ -23,15 +23,15 @@ Link to the dataset: [here](#)
 ## Tensorboard
 [V1] 
 - Abjad: [v1/training/train](https://tensorboard.dev/experiment/IVQTyqHVQ3mquX9DeMozUg/#scalars&runSelectionState=eyJ2MS90cmFpbmluZy90cmFpbiI6dHJ1ZSwidjIvdHJhaW5pbmcvdHJhaW4iOmZhbHNlLCJ2My90cmFpbmluZy90cmFpbiI6ZmFsc2V9)
-- Angka: [v1/training/train](https://tensorboard.dev/experiment/7wzO0AvpTzmHy4fYDiNwaw/#scalars&runSelectionState=eyJ2Mi90cmFpbmluZy90cmFpbiI6ZmFsc2UsInYzL3RyYWluaW5nL3RyYWluIjpmYWxzZX0%3D)  
+- Angka: [v1/training/train](https://tensorboard.dev/experiment/c8dWKgsRRTKj6xeob6ZBLg/#scalars&runSelectionState=eyJ2MS90cmFpbmluZy90cmFpbiI6dHJ1ZSwidjIvdHJhaW5pbmcvdHJhaW4iOmZhbHNlLCJ2My90cmFpbmluZy90cmFpbiI6ZmFsc2V9)  
 - Kata: https://tensorboard.dev/experiment/wtLb1cerQMOk1ayoQHw6YA/
 
 [V2]
 - Abjad: [v2/training/train](https://tensorboard.dev/experiment/IVQTyqHVQ3mquX9DeMozUg/#scalars&runSelectionState=eyJ2MS90cmFpbmluZy90cmFpbiI6ZmFsc2UsInYyL3RyYWluaW5nL3RyYWluIjp0cnVlLCJ2My90cmFpbmluZy90cmFpbiI6ZmFsc2V9)
-- Angka: [v2/training/train](https://tensorboard.dev/experiment/7wzO0AvpTzmHy4fYDiNwaw/#scalars&runSelectionState=eyJ2Mi90cmFpbmluZy90cmFpbiI6dHJ1ZSwidjMvdHJhaW5pbmcvdHJhaW4iOmZhbHNlLCJ2MS90cmFpbmluZy90cmFpbiI6ZmFsc2V9)  
+- Angka: [v2/training/train](https://tensorboard.dev/experiment/c8dWKgsRRTKj6xeob6ZBLg/#scalars&runSelectionState=eyJ2MS90cmFpbmluZy90cmFpbiI6ZmFsc2UsInYyL3RyYWluaW5nL3RyYWluIjp0cnVlLCJ2My90cmFpbmluZy90cmFpbiI6ZmFsc2V9)  
 - Kata: https://tensorboard.dev/experiment/JC9diL2IRJuRWN6mZ9LTdA/
 
 [V3]
 - Abjad: [v3/training/train](https://tensorboard.dev/experiment/IVQTyqHVQ3mquX9DeMozUg/#scalars&runSelectionState=eyJ2MS90cmFpbmluZy90cmFpbiI6ZmFsc2UsInYyL3RyYWluaW5nL3RyYWluIjpmYWxzZSwidjMvdHJhaW5pbmcvdHJhaW4iOnRydWV9)
-- Angka: [v3/training/train](https://tensorboard.dev/experiment/7wzO0AvpTzmHy4fYDiNwaw/#scalars&runSelectionState=eyJ2Mi90cmFpbmluZy90cmFpbiI6ZmFsc2UsInYzL3RyYWluaW5nL3RyYWluIjp0cnVlLCJ2MS90cmFpbmluZy90cmFpbiI6ZmFsc2V9)  
+- Angka: [v3/training/train](https://tensorboard.dev/experiment/c8dWKgsRRTKj6xeob6ZBLg/#scalars&runSelectionState=eyJ2MS90cmFpbmluZy90cmFpbiI6ZmFsc2UsInYyL3RyYWluaW5nL3RyYWluIjpmYWxzZSwidjMvdHJhaW5pbmcvdHJhaW4iOnRydWV9)  
 - Kata:
