@@ -23,20 +23,21 @@ The trained models have been converted into optimized `.tflite` format for effic
 >> - Angka: [tensorboard](https://tensorboard.dev/experiment/c8dWKgsRRTKj6xeob6ZBLg/#scalars&runSelectionState=eyJ2MS90cmFpbmluZy90cmFpbiI6dHJ1ZSwidjIvdHJhaW5pbmcvdHJhaW4iOmZhbHNlLCJ2My90cmFpbmluZy90cmFpbiI6ZmFsc2V9)  
 >> - Kata: [tensorboard](https://tensorboard.dev/experiment/wtLb1cerQMOk1ayoQHw6YA/)
 
-[V2]
-- Abjad: [v2/training/train](https://tensorboard.dev/experiment/IVQTyqHVQ3mquX9DeMozUg/#scalars&runSelectionState=eyJ2MS90cmFpbmluZy90cmFpbiI6ZmFsc2UsInYyL3RyYWluaW5nL3RyYWluIjp0cnVlLCJ2My90cmFpbmluZy90cmFpbiI6ZmFsc2V9)
-- Angka: [v2/training/train](https://tensorboard.dev/experiment/c8dWKgsRRTKj6xeob6ZBLg/#scalars&runSelectionState=eyJ2MS90cmFpbmluZy90cmFpbiI6ZmFsc2UsInYyL3RyYWluaW5nL3RyYWluIjp0cnVlLCJ2My90cmFpbmluZy90cmFpbiI6ZmFsc2V9)  
-- Kata: https://tensorboard.dev/experiment/JC9diL2IRJuRWN6mZ9LTdA/
+> **Note**
+> Model V2
+>
+>> - Abjad: [tensorboard](https://tensorboard.dev/experiment/IVQTyqHVQ3mquX9DeMozUg/#scalars&runSelectionState=eyJ2MS90cmFpbmluZy90cmFpbiI6ZmFsc2UsInYyL3RyYWluaW5nL3RyYWluIjp0cnVlLCJ2My90cmFpbmluZy90cmFpbiI6ZmFsc2V9)
+>> - Angka: [tensorboard](https://tensorboard.dev/experiment/c8dWKgsRRTKj6xeob6ZBLg/#scalars&runSelectionState=eyJ2MS90cmFpbmluZy90cmFpbiI6ZmFsc2UsInYyL3RyYWluaW5nL3RyYWluIjp0cnVlLCJ2My90cmFpbmluZy90cmFpbiI6ZmFsc2V9)  
+>> - Kata: [tensorboard](https://tensorboard.dev/experiment/JC9diL2IRJuRWN6mZ9LTdA/)
 
-[V3]
-- Abjad: [v3/training/train](https://tensorboard.dev/experiment/IVQTyqHVQ3mquX9DeMozUg/#scalars&runSelectionState=eyJ2MS90cmFpbmluZy90cmFpbiI6ZmFsc2UsInYyL3RyYWluaW5nL3RyYWluIjpmYWxzZSwidjMvdHJhaW5pbmcvdHJhaW4iOnRydWV9)
-- Angka: [v3/training/train](https://tensorboard.dev/experiment/c8dWKgsRRTKj6xeob6ZBLg/#scalars&runSelectionState=eyJ2MS90cmFpbmluZy90cmFpbiI6ZmFsc2UsInYyL3RyYWluaW5nL3RyYWluIjpmYWxzZSwidjMvdHJhaW5pbmcvdHJhaW4iOnRydWV9)  
-- Kata:
-
+> **Note**
+> Model V3
+>
+>> - Abjad: [tensorboard](https://tensorboard.dev/experiment/IVQTyqHVQ3mquX9DeMozUg/#scalars&runSelectionState=eyJ2MS90cmFpbmluZy90cmFpbiI6ZmFsc2UsInYyL3RyYWluaW5nL3RyYWluIjpmYWxzZSwidjMvdHJhaW5pbmcvdHJhaW4iOnRydWV9)
+>> - Angka: [tensorboard](https://tensorboard.dev/experiment/c8dWKgsRRTKj6xeob6ZBLg/#scalars&runSelectionState=eyJ2MS90cmFpbmluZy90cmFpbiI6ZmFsc2UsInYyL3RyYWluaW5nL3RyYWluIjpmYWxzZSwidjMvdHJhaW5pbmcvdHJhaW4iOnRydWV9)  
+>> - Kata: [tensorboard](#)
 
 ## Dataset
 The training dataset used for this project consists of a large collection of annotated sign language images. The dataset includes diverse samples of different sign language gestures, captured under various lighting conditions, backgrounds, and hand orientations. The annotations provide bounding box coordinates and corresponding labels for each sign language gesture
 
 Link to the dataset: [here](#)
-
-## Tensorboard
