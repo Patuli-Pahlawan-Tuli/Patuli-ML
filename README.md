@@ -71,7 +71,7 @@ Link to the dataset:
 
 ## Training the Model
 
-To train the model, you can do it locally or on Google Colab. For our case, we trained the model locally on a machine with CUDA enabled GPU in a linux environment using WSL2 (Ubuntu 20 LTS). You need to train the model in a linux environment because some of the commands used in the training process are linux specific. We also recommend you to train it in VSCode because of its ability to connect to
+To train the model, you can do it locally or on Google Colab. For our case, we trained the model locally on a machine with CUDA enabled GPU in a linux environment using WSL2 (Ubuntu 20 LTS). You need to train the model in a linux environment because some of the commands used in the training process are linux specific.
 
 To train the model locally, you can follow the steps below:
 
