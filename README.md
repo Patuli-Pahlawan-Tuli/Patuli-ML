@@ -51,11 +51,11 @@ We have trained the models three time with each version having improved dataset 
 - <details>
   <summary>Model V3</summary>
 
-  [V2](Models/V3) is our second production model, trained with the same dataset as V2 and this time with less steps of training (20k steps).
+  [V3](Models/V3) is our second production model, trained with the same dataset as V2 and this time with less steps of training (20k steps).
 
   - [Abjad](https://tensorboard.dev/experiment/IVQTyqHVQ3mquX9DeMozUg/#scalars&runSelectionState=eyJ2MS90cmFpbmluZy90cmFpbiI6ZmFsc2UsInYyL3RyYWluaW5nL3RyYWluIjpmYWxzZSwidjMvdHJhaW5pbmcvdHJhaW4iOnRydWV9)
   - [Angka](https://tensorboard.dev/experiment/c8dWKgsRRTKj6xeob6ZBLg/#scalars&runSelectionState=eyJ2MS90cmFpbmluZy90cmFpbiI6ZmFsc2UsInYyL3RyYWluaW5nL3RyYWluIjpmYWxzZSwidjMvdHJhaW5pbmcvdHJhaW4iOnRydWV9)
-  - [Kata](#)
+  - [Kata](https://tensorboard.dev/experiment/m476V1CKQZy0HDaA2rkcMw/)
 
 </details>
 
@@ -90,3 +90,5 @@ To train the model on Google Colab, you will need to set the python version to 3
 4. After you have finished training the model, you can download the model from the notebook.
 
 # References
+
+To be added
