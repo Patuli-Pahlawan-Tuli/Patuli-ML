@@ -78,7 +78,7 @@ To train the model locally, you can follow the steps below:
 1. Ensure that you have installed CUDA and cuDNN on your machine. You can follow the steps [here](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html) to install CUDA and [here](https://docs.nvidia.com/deeplearning/cudnn/install-guide/index.html) to install cuDNN. We follow [this guide](https://gist.github.com/adwellj/2769957e7fc8c7e9372e5f4b06f72b80) to install CUDA on our WSL2 Ubuntu.
 2. Install the WSL extension on your VSCode.
 3. Prepare a virtual environment to train your model. You can follow the steps [here](https://docs.python.org/3/tutorial/venv.html) to create a virtual environment.
-4. Go to your roboflow account and **get your API key in the account settings** format. Alternatively, You can also download it manually by visiting our dataset links above and download the dataset in VOC format, then moving it to project directory into **images** folder. By doing this, you can skip the downloading process of the dataset in the notebook.
+4. Go to your roboflow account and **get your API key in the account settings**. Alternatively, You can also download it manually by visiting our dataset links above and download the dataset in VOC format, then moving it to project directory into **images** folder. By doing this, you can skip the downloading process of the dataset in the notebook.
 5. Clone the repository, open the notebooks in its own directory or as a root directory.
 6. Follow the steps in the notebook to train the model.
 
