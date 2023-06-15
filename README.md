@@ -38,7 +38,7 @@ We have trained the models three time with each version having improved dataset 
 </details>
 
 - <details>
-  <summary>Model V2</summary>
+  <summary>Model V2 (We use this in the application)</summary>
 
   [V2](Models/V2) is our first production model, trained with optimized dataset and 40k steps of training.
 
@@ -88,7 +88,3 @@ To train the model on Google Colab, you will need to set the python version to 3
 2. Import the notebook from this repository.
 3. Follow the steps in the notebook to train the model.
 4. After you have finished training the model, you can download the model from the notebook.
-
-# References
-
-To be added
